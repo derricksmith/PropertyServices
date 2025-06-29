@@ -1,6 +1,6 @@
-# PropertyServices - Bagisto Package
+# PropertyServices
 
-An "Uber for Property Services" marketplace package for Laravel Bagisto 2.3-dev.
+A big beautiful package
 
 ## Installation
 
